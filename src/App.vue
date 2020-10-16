@@ -1,10 +1,10 @@
 <template>
   <div id="app">
-      <div class="container pt-5">
-          <div class="sliding-background"></div>
+      <div class="the_container pt-5" style="padding: 0px">
+          <div class="sliding-background mx-0"></div>
       </div>
       <section class="hero is-white">
-          <div class="hero-body">
+          <div class="hero-body pt-5 pb-5">
               <div class="container">
                   <h1 class="title is-size-1 has-text-primary">
                   Vlaaienslag
@@ -15,26 +15,31 @@
               </div>
           </div>
 
-    </section>
-         <b-tabs type="is-boxed" position="is-centered">
-              <b-tab-item label="Bestel nu" class="has-text-left">
-                 <div class="pretix-widget-compat" skip-ssl-check event="https://tickets.scoutshellegat.be/vlaaienslag/">
-                    <noscript>
-                       <div class="pretix-widget">
-                            <div class="pretix-widget-info-message">
-                                JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tickets.scoutshellegat.be/vlaaienslag/">click here</a>.
-                            </div>
-                        </div>
-                    </noscript>
-                  </div>
+    </section >
 
-              </b-tab-item>
-              <b-tab-item label="Onze taarten">
 
-                Wij hebben veel taarten in ons assortiment!
 
-              </b-tab-item>
-    </b-tabs>
+    <section class="section pt-0" >
+      <div class="container has-text-left" style="max-width: 810px">
+        <div class="content px-5">
+          <p>Dit jaar ziet onze vlaaienslag er echter iets anders uit, maar de taarten zijn even lekker! Je kan ze op deze website of telefonisch bestellen, en wij brengen ze réchtstreeks tot aan je deur. </p>
+
+          <p>Wij leveren je taarten <b>aan huis</b> op <b>zaterdag 14 november </b>, of jij komt ze bij ons ophalen tussen 10u en 15u! Bij vragen can je ons steeds contacteren op <a href="mailto:vlaaienslag@scoutshellegat.be">vlaaienslag@scoutshellegat.be</a>.</p>
+
+        </div>
+         <div class="pretix-widget-compat has-text-left" event="https://tickets.scoutshellegat.be/vlaaienslag/">
+            <noscript>
+               <div class="pretix-widget">
+                    <div class="pretix-widget-info-message">
+                        JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tickets.scoutshellegat.be/vlaaienslag/">click here</a>.
+                    </div>
+                </div>
+            </noscript>
+          </div>
+   </div>
+  </section>
+
+
 
 
 
@@ -66,19 +71,19 @@ export default {
      font-family: Didot, Helvetica, Arial, 'serif';
   }
 
-.container {
+.the_container {
   overflow: hidden;
 }
 
 .sliding-background {
   height: 100px;
-  width: 1590px;
+  width: 2120px;
 }
 
 .sliding-background {
   background: url("assets/taarten_half.png")  repeat-x;
   height: 100px;
-  width: 1590px; /* The image width times 3 */
+  width: 2120px; /* The image width times 3 */
   animation: slide 40s linear infinite;
 }
 
@@ -89,6 +94,11 @@ export default {
   100%{
     transform: translate3d(-530px, 0, 0); /* The image width */
   }
+}
+
+.pretix-widget {
+    border: 0px;
+
 }
 
 
