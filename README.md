@@ -1,5 +1,7 @@
 # vlaaienslag
 
+Frontend voor Vlaaienslag 2020 van Scouts Hellegat. Gedeployed door Vercel. Widget door Pretix.
+
 ## Project setup
 ```
 npm install
