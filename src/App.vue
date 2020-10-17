@@ -25,7 +25,7 @@
           <p>Welkom bij de <b>jaarlijkse vlaaienslag </b> van Scouts Hellegat! Elk jaar gaan we deur aan deur met onze leden en verkopen we heerlijke limburgse vlaaien. Dit jaar zal het er een beetje anders uitzien, maar geen paniek: de scouts zal u zeker van uw hoogverwachte jaarlijkse taart voorzien.</p>
 
           <p>Dit jaar leveren wij je taarten contactloos <b>aan huis</b> op <b>zaterdag 14 november</b> tussen 10u en 17u, of kom je ze die dag aan onze scoutslokalen ophalen tussen 10u en 15u!</p>
-          <p>Omdat we dit jaar onze taarten via een online platform verkopen, wijn we genoodzaakt een servicekost van 0.60 euro te vragen. Hiermee laten we de website waar u nu naar kijkt vlotjes draaien en krijgt u na het afrekenen een mailtje in uw mailbox waarop alle details van uw bestelling terug te vinden zijn. Bij vragen kan je ons steeds contacteren op <a href="mailto:vlaaienslag@scoutshellegat.be">vlaaienslag@scoutshellegat.be</a>. Bedankt voor uw begrip.</p>
+          <p>Omdat we dit jaar onze taarten via een online platform verkopen, zijn we genoodzaakt een servicekost van 0.60 euro te vragen. Hiermee laten we de website waar u nu naar kijkt vlotjes draaien en krijgt u na het afrekenen een mailtje in uw mailbox waarop alle details van uw bestelling terug te vinden zijn. Bij vragen kan je ons steeds contacteren op <a href="mailto:vlaaienslag@scoutshellegat.be">vlaaienslag@scoutshellegat.be</a>. Bedankt voor uw begrip.</p>
 
 
         </div>
@@ -43,7 +43,7 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          Een jaarlijkse actie van <a href="https://scoutshellegat.be/">Scouts Hellegat</a> ⚜️ Keep it safe ❤️
+          Een jaarlijkse actie van © <a href="https://scoutshellegat.be/">Scouts Hellegat</a> ⚜️ Keep it safe ❤️
         </p>
       </div>
     </footer>
