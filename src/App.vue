@@ -29,11 +29,11 @@
 
 
         </div>
-        <div class="pretix-widget-compat" skip-ssl-check event="https://tickets.scoutshellegat.be/vlaaienslag/" data-campaign="am5tFQ3s3"> </div>
+        <div class="pretix-widget-compat" skip-ssl-check event="https://vlaaienslag.scoutshellegat.be/" data-campaign="am5tFQ3s3"> </div>
         <noscript>
            <div class="pretix-widget ">
                 <div class="pretix-widget-info-message">
-                    JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tickets.scoutshellegat.be/vlaaienslag/c/am5tFQ3s3/">click here</a>.
+                    JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://vlaaienslag.scoutshellegat.be/c/am5tFQ3s3/">click here</a>.
                 </div>
             </div>
         </noscript>
