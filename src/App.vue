@@ -62,6 +62,9 @@ export default {
   name: 'App',
   components: {
 
+  },
+  mounted() {
+    this.$gtag.event('load', { method: 'Google' })
   }
 }
 </script>
