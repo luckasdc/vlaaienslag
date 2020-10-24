@@ -19,15 +19,26 @@
 
 
 
-    <section class="section pt-0" >
-      <div class="container is-mobile" style="max-width: 810px">
+    <section class="section pt-0 px-0" >
+      <div class="container is-mobile " style="max-width: 810px">
         <div class="content has-text-left px-5">
           <p>Welkom bij de <b>jaarlijkse vlaaienslag </b> van Scouts Hellegat! Elk jaar gaan we deur aan deur met onze leden en verkopen we heerlijke limburgse vlaaien. Dit jaar zal het er een beetje anders uitzien, maar geen paniek: de scouts zal u zeker van uw hoogverwachte jaarlijkse taart voorzien.</p>
 
           <p>Dit jaar leveren wij je taarten contactloos <b>aan huis</b> op <b>zaterdag 14 november</b> tussen 10u en 17u, of kom je ze die dag aan onze scoutslokalen ophalen tussen 10u en 15u!
-          Levering is mogelijk in Niel, Schelle, Hemiksem, Aartselaar en Boom. Voor grotere bestellingen zijn er meer opties mogelijk.</p>
+            <b>Levering</b> is mogelijk in:
+            <b-taglist class="py-2 mb-0">
+              <b-tag type="is-primary">Niel</b-tag>
+              <b-tag type="is-primary">Schelle</b-tag>
+              <b-tag type="is-primary">Hemiksem</b-tag>
+              <b-tag type="is-primary">Aartselaar</b-tag>
+              <b-tag type="is-primary">Boom</b-tag>
+            </b-taglist>
+            Voor grotere bestellingen zijn er <a href="mailto:vlaaienslag@scoutshellegat.be?subject=Bestelling op maat">meer opties mogelijk</a>.</p>
           <p>Omdat we dit jaar onze taarten via een online platform verkopen, zijn we genoodzaakt een servicekost van 0.60 euro te vragen. Hiermee laten we de website waar u nu naar kijkt vlotjes draaien en krijgt u na het afrekenen een mailtje in uw mailbox waarop alle details van uw bestelling terug te vinden zijn. Bij vragen kan je ons steeds contacteren op <a href="mailto:vlaaienslag@scoutshellegat.be">vlaaienslag@scoutshellegat.be</a>. Bedankt voor uw begrip.</p>
 
+          <b-notification type="" aria-close-label="Close notification">
+            Bestellen kan tot en met <b>zaterdag 7 november!</b>
+          </b-notification>
 
         </div>
         <div class="pretix-widget-compat" skip-ssl-check event="https://vlaaienslag.scoutshellegat.be/" data-campaign="am5tFQ3s3"> </div>
@@ -76,7 +87,6 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
 }
 
 .title{

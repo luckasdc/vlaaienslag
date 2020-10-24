@@ -1,8 +1,10 @@
 // Import Bulma's core
 @import "~bulma/sass/utilities/_all";
 
+// Import Bulma and Buefy styles
 // Set your colors
 $primary: #3c4c60;
+$dark: #552023;
 $primary-invert: findColorInvert($primary);
 
 
@@ -19,11 +21,11 @@ $colors: (
     "danger": ($danger, $danger-invert),
 );
 
+
 // Links
 $link: lighten($primary, 22);
 $link-invert: $primary-invert;
 $link-focus-border: $primary;
-
-// Import Bulma and Buefy styles
 @import "~bulma";
+
 @import "~buefy/src/scss/buefy";
