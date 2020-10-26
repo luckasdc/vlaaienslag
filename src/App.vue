@@ -37,7 +37,7 @@
           <p>Omdat we dit jaar onze taarten via een online platform verkopen, zijn we genoodzaakt een servicekost van 0.60 euro te vragen. Hiermee laten we de website waar u nu naar kijkt vlotjes draaien en krijgt u na het afrekenen een mailtje in uw mailbox waarop alle details van uw bestelling terug te vinden zijn. Bij vragen kan je ons steeds contacteren op <a href="mailto:vlaaienslag@scoutshellegat.be">vlaaienslag@scoutshellegat.be</a>. Bedankt voor uw begrip.</p>
 
           <b-notification type="" aria-close-label="Close notification">
-            Bestellen kan tot en met <b>zaterdag 8 november!</b>
+            Bestellen kan tot en met <b>zondag 8 november!</b>
           </b-notification>
 
         </div>
