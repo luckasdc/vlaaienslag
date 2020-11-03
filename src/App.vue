@@ -24,7 +24,7 @@
         <div class="content has-text-left px-5">
           <p>Welkom bij de <b>jaarlijkse vlaaienslag </b> van Scouts Hellegat! Elk jaar gaan we deur aan deur met onze leden en verkopen we heerlijke limburgse vlaaien. Dit jaar zal het er een beetje anders uitzien, maar geen paniek: de scouts zal u zeker van uw hoogverwachte jaarlijkse taart voorzien.</p>
 
-          <p>Dit jaar leveren wij je taarten contactloos <b>aan huis</b> op <b>zaterdag 14 november</b> tussen 10u en 17u, of kom je ze die dag aan onze scoutslokalen ophalen tussen 10u en 15u!
+          <p>Dit jaar leveren wij je taarten contactloos <b>aan huis</b> op <b>zaterdag 14 november</b> tussen 10u en 17u.
             <b>Levering</b> is mogelijk in:
             <b-taglist class="py-2 mb-0">
               <b-tag type="is-primary">Niel</b-tag>
