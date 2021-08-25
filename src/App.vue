@@ -22,7 +22,7 @@
     <section class="section pt-0 px-0" >
       <div class="container is-mobile " style="max-width: 810px">
         <div class="content has-text-left px-5">
-          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! In het najaar van 2021 zal onze actie opnieuw plaatsvinden.</p>
+          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! Op 9 oktober 2021 zal onze actie opnieuw plaatsvinden.</p>
 
           <p>In 2020 leverden we taarten contactloos <b>aan huis</b> op <b>zaterdag 14 november</b> tussen 10u en 17u.
             <b>Levering</b> was mogelijk in:
