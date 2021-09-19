@@ -22,10 +22,10 @@
     <section class="section pt-0 px-0" >
       <div class="container is-mobile " style="max-width: 810px">
         <div class="content has-text-left px-5">
-          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! Op 9 oktober 2021 zal onze actie opnieuw plaatsvinden.</p>
-
-          <p>In 2020 leverden we taarten contactloos <b>aan huis</b> op <b>zaterdag 14 november</b> tussen 10u en 17u.
-            <b>Levering</b> was mogelijk in:
+          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! Op 9 oktober 2021 zullen wij jullie opnieuw voorzien van heerlijke Limburgse Vlaaien.</p>
+          <p>Woon je in Niel? Dan komen we langs bij jouw aan de deur. Woon je elders of wil je zeker zijn van je bestelling, dan kan je hier je vlaaien op voorhand bestellen. Leveren zal gebeuren op 9 oktober tussen 10u en 13u.</p>
+   
+            <b>Levering</b> is mogelijk in:
             <b-taglist class="py-2 mb-0">
               <b-tag type="is-primary">Niel</b-tag>
               <b-tag type="is-primary">Schelle</b-tag>
