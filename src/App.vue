@@ -22,9 +22,9 @@
     <section class="section pt-0 px-0" >
       <div class="container is-mobile " style="max-width: 810px">
         <div class="content has-text-left px-5">
-          <p>Welkom bij de <b>jaarlijkse vlaaienslag </b> van Scouts Hellegat! Elk jaar gaan we deur aan deur met onze leden en verkopen we heerlijke limburgse vlaaien.</p>
-
-          <p>Dit jaar leveren wij je taarten <b>aan huis</b> op <b>zaterdag 22 oktober</b> tussen 10u en 17u, of kom je ze de dag zelf op de Heideplaats ophalen tussen 10u en 15u!
+          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! Op 22 oktober 2022 zullen wij jullie opnieuw voorzien van heerlijke Limburgse Vlaaien.</p>
+          <p>Woon je in Niel? Dan komen we bij je langs aan de deur. Woon je elders of wil je zeker zijn van je bestelling, dan kan je hier je vlaaien op voorhand bestellen. Leveren zal gebeuren op 22 oktober tussen 10u en 13u.</p>
+           <p>
             <b>Levering</b> is mogelijk in:
             <b-taglist class="py-2 mb-0">
               <b-tag type="is-primary">Niel</b-tag>
