@@ -33,7 +33,7 @@
               <b-tag type="is-primary">Aartselaar</b-tag>
               <b-tag type="is-primary">Boom</b-tag>
             </b-taglist>
-            Voor grotere bestellingen zijn er <a href="mailto:vlaaienslag@scoutshellegat.be?subject=Bestelling op maat">meer opties mogelijk</a>.</p>
+            Voor grotere bestellingen zijn er meer opties mogelijk, <a href="mailto:vlaaienslag@scoutshellegat.be?subject=Bestelling op maat">hiervoor neem je best contact met ons op</a>.</p>
           <p>Na afrekenen krijgt u een mailtje in uw mailbox waarop alle details van uw bestelling terug te vinden zijn. Bij vragen kan je ons steeds contacteren op <a href="mailto:vlaaienslag@scoutshellegat.be">vlaaienslag@scoutshellegat.be</a>.</p>
 
           <b-notification type="" aria-close-label="Close notification">
