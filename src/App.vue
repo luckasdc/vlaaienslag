@@ -22,8 +22,8 @@
     <section class="section pt-0 px-0" >
       <div class="container is-mobile " style="max-width: 810px">
         <div class="content has-text-left px-5">
-          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! Op 21 oktober 2023 zullen wij jullie opnieuw voorzien van heerlijke Limburgse Vlaaien.</p>
-          <p>Woon je in Niel? Dan komen we bij je langs aan de deur. Woon je elders of wil je zeker zijn van je bestelling, dan kan je hier je vlaaien op voorhand bestellen. Leveren zal gebeuren op 21 oktober tussen 10u en 13u.</p>
+          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! Op 12 oktober 2024 zullen wij jullie opnieuw voorzien van heerlijke Limburgse Vlaaien.</p>
+          <p>Woon je in Niel? Dan komen we bij je langs aan de deur. Woon je elders of wil je zeker zijn van je bestelling, dan kan je hier je vlaaien op voorhand bestellen. Leveren zal gebeuren op 12 oktober tussen 10u en 13u.</p>
            <p>
             <b>Levering</b> is mogelijk in:
             <b-taglist class="py-2 mb-0">
@@ -37,7 +37,7 @@
           <p>Na afrekenen krijgt u een mailtje in uw mailbox waarop alle details van uw bestelling terug te vinden zijn. Bij vragen kan je ons steeds contacteren op <a href="mailto:vlaaienslag@scoutshellegat.be">vlaaienslag@scoutshellegat.be</a>.</p>
 
           <b-notification type="" aria-close-label="Close notification">
-            Bestellen kan tot en met <b>vrijdag 20 oktober!</b>
+            Bestellen kan tot en met <b>donderdag 10 oktober!</b>
           </b-notification>
 
         </div>
