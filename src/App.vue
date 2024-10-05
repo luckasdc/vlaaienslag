@@ -105,7 +105,7 @@ export default {
 .sliding-background {
   background: url("assets/taarten_half.png")  repeat-x;
   height: 100px;
-  width: 2120px; /* The image width times 3 */
+  width: 2560px; /* The image width times 3 */
   animation: slide 40s linear infinite;
 }
 
