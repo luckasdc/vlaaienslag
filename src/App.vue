@@ -37,7 +37,7 @@
           <p>Na afrekenen krijgt u een mailtje in uw mailbox waarop alle details van uw bestelling terug te vinden zijn. Bij vragen kan je ons steeds contacteren op <a href="mailto:vlaaienslag@scoutshellegat.be">vlaaienslag@scoutshellegat.be</a>.</p>
 
           <b-notification type="" aria-close-label="Close notification">
-            Bestellen kan tot en met <b>donderdag 10 oktober!</b>
+            Tot volgend jaar!
           </b-notification>
 
         </div>
