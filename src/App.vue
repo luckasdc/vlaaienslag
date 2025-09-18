@@ -22,7 +22,7 @@
     <section class="section pt-0 px-0" >
       <div class="container is-mobile " style="max-width: 810px">
         <div class="content has-text-left px-5">
-          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! Op 12 oktober 2024 zullen wij jullie opnieuw voorzien van heerlijke Limburgse Vlaaien.</p>
+          <p>Welkom bij de <b>jaarlijkse vlaaienslag</b> van Scouts Hellegat! Op 11 oktober 2025 zullen wij jullie opnieuw voorzien van heerlijke Limburgse Vlaaien.</p>
           <p>Woon je in Niel? Dan komen we bij je langs aan de deur. Woon je elders of wil je zeker zijn van je bestelling, dan kan je hier je vlaaien op voorhand bestellen. Leveren zal gebeuren op 12 oktober tussen 10u en 13u.</p>
            <p>
             <b>Levering</b> is mogelijk in:
