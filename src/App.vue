@@ -42,6 +42,9 @@
 
         </div>
         <div v-if="loaded" class="pretix-widget-compat" event="https://pretix.eu/scoutshellegat/vlaaienslag2025/" single-item-select="button"></div>
+        <div v-else>
+
+        </div>
         <noscript>
            <div class="pretix-widget">
                 <div class="pretix-widget-info-message">
@@ -49,6 +52,14 @@
                         </div>
             </div>
         </noscript>
+
+        <b-message type="is-grey">
+          Indien de opties hierboven niet zichtbaar zijn,
+          <a href="https://pretix.eu/scoutshellegat/vlaaienslag2025/" target="_blank" rel="noopener">
+            klik hier
+          </a>
+          om je taarten te bestellen!
+        </b-message>
    </div>
   </section>
 
