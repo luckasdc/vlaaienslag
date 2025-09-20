@@ -41,7 +41,7 @@
 <!--          </b-notification>-->
 
         </div>
-        <div class="pretix-widget-compat" event="https://pretix.eu/scoutshellegat/vlaaienslag2024/" single-item-select="button"></div>
+        <div class="pretix-widget-compat" event="https://pretix.eu/scoutshellegat/vlaaienslag2025/" single-item-select="button"></div>
         <noscript>
            <div class="pretix-widget">
                 <div class="pretix-widget-info-message">
