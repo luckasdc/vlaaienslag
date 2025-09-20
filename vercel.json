@@ -1,28 +1,14 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ],
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self' https://pretix.eu 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://pretix.eu; img-src 'self' data: https://pretix.eu; font-src 'self' data: https://pretix.eu; frame-src https://pretix.eu; connect-src 'self' https://pretix.eu; object-src 'none'; base-uri 'self';"
-        },
-        {
-          "key": "Cross-Origin-Embedder-Policy",
-          "value": "require-corp"
-        },
-        {
-          "key": "Cross-Origin-Opener-Policy",
-          "value": "same-origin"
-        },
-        {
-          "key": "Cross-Origin-Resource-Policy",
-          "value": "cross-origin"
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://pretix.eu https://*.pretix.eu https://www.googletagmanager.com https://www.google-analytics.com https://kit.fontawesome.com https://ka-f.fontawesome.com; style-src 'self' 'unsafe-inline' https://pretix.eu https://*.pretix.eu https://ka-f.fontawesome.com; img-src 'self' data: https://pretix.eu https://*.pretix.eu https://www.googletagmanager.com https://www.google-analytics.com https://stats.g.doubleclick.net; font-src 'self' data: https://ka-f.fontawesome.com; frame-src https://pretix.eu https://*.pretix.eu; connect-src 'self' https://pretix.eu https://*.pretix.eu https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com https://stats.g.doubleclick.net; object-src 'none'; base-uri 'self';"
         }
       ]
     }
