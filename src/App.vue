@@ -50,7 +50,7 @@
                         </div>
             </div>
         </noscript>
-
+        <br>
         <b-message type="is-grey">
           Indien de opties hierboven niet zichtbaar zijn,
           <a href="https://pretix.eu/scoutshellegat/vlaaienslag2025/" target="_blank" rel="noopener">
