@@ -41,7 +41,7 @@
 <!--          </b-notification>-->
 
         </div>
-        <div class="pretix-widget-compat" event="https://pretix.eu/scoutshellegat/vlaaienslag2025/" single-item-select="button"></div>
+        <div v-if="loaded" class="pretix-widget-compat" event="https://pretix.eu/scoutshellegat/vlaaienslag2025/" single-item-select="button"></div>
         <noscript>
            <div class="pretix-widget">
                 <div class="pretix-widget-info-message">
@@ -74,8 +74,14 @@ export default {
   components: {
 
   },
+  data() {
+    return {
+      loaded: false,
+    }
+  },
   mounted() {
     this.$gtag.event('load', { method: 'Google' })
+    this.loaded = true
   }
 }
 </script>
