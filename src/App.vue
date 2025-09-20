@@ -41,10 +41,8 @@
 <!--          </b-notification>-->
 
         </div>
-        <div v-if="loaded" class="pretix-widget-compat" event="https://pretix.eu/scoutshellegat/vlaaienslag2025/" single-item-select="button"></div>
-        <div v-else>
+        <div class="pretix-widget-compat" event="https://pretix.eu/scoutshellegat/vlaaienslag2025/" single-item-select="button"></div>
 
-        </div>
         <noscript>
            <div class="pretix-widget">
                 <div class="pretix-widget-info-message">
@@ -87,12 +85,21 @@ export default {
   },
   data() {
     return {
-      loaded: false,
     }
   },
   mounted() {
     this.$gtag.event('load', { method: 'Google' })
-    this.loaded = true
+    // Zorg dat het script de widgets opbouwt nadat Vue gerenderd heeft
+    if (window.PretixWidget && typeof window.PretixWidget.buildWidgets === 'function') {
+      // Optional: wacht 1 tick zodat DOM er zeker staat
+      this.$nextTick(() => window.PretixWidget.buildWidgets());
+    } else {
+      // Als script nog async aan het laden is, registreer callback
+      window.pretixWidgetCallback = function () {
+        window.PretixWidget.buildWidgets();
+      };
+    }
+
   }
 }
 </script>
